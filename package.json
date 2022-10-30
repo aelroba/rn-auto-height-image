@@ -1,6 +1,6 @@
 {
   "name": "rn-auto-height-img",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react-native auto height image",
   "main": "./index.js",
   "typings": "./index.d.ts",
