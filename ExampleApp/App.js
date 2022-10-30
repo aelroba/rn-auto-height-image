@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import AutoHeightImage from 'rn-auto-height-image';
+import AutoHeightImage from 'rn-auto-height-img';
 import {
   StyleSheet,
   Text,

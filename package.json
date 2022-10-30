@@ -1,5 +1,5 @@
 {
-  "name": "rn-auto-height-image",
+  "name": "rn-auto-height-img",
   "version": "1.0.1",
   "description": "react-native auto height image",
   "main": "./index.js",

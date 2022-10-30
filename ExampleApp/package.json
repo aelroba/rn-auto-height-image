@@ -6,14 +6,14 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "postinstall": "rm -rf ./node_modules/rn-auto-height-image/node_modules && rm -rf ./node_modules/rn-auto-height-image/ExampleApp"
+    "postinstall": "rm -rf ./node_modules/rn-auto-height-img/node_modules && rm -rf ./node_modules/rn-auto-height-img/ExampleApp"
   },
   "dependencies": {
     "expo": "~41.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
-    "rn-auto-height-image": "file:..",
+    "rn-auto-height-img": "file:..",
     "react-native-web": "~0.16.0"
   },
   "devDependencies": {

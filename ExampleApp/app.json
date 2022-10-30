@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ExampleApp for rn-auto-height-image component",
-    "slug": "example-app-for-rn-auto-height-image-component",
+    "name": "ExampleApp for rn-auto-height-img component",
+    "slug": "example-app-for-rn-auto-height-img-component",
     "privacy": "public",
     "version": "1.0.0",
     "orientation": "portrait",
