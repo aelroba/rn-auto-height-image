@@ -14,9 +14,9 @@ React Native version requirements: >=0.46.
 
 ## Installation
 
-`yarn add react-native-auto-height-image`
+`yarn add rn-auto-height-img`
 
-`npm install react-native-auto-height-image`
+`npm install rn-auto-height-img`
 
 ## Usage
 
