@@ -1,6 +1,6 @@
 {
   "name": "rn-auto-height-img",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "react-native auto height image",
   "main": "./index.js",
   "typings": "./index.d.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:aelroba/rn-auto-height-image.git"
+    "url": "git@github.com:aelroba/rn-auto-height-img.git"
   },
   "keywords": [
     "react-native",
